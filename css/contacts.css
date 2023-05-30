@@ -34,15 +34,17 @@ img {
     border-bottom-left-radius: 8px; 
 }
 .secondarynav {
-    width: 23vw;
+    /* width: 23vw; */
+    width: 40%;
     display: flex;
     align-items: center;
     justify-content: space-around;
 }
 .header-item {
     /* margin-top: calc(1vh / 3.5); */
-    margin-left: 4vw;
-    width: max-content;
+    /* margin-left: 4vw; */
+    margin-left: 450px;
+    /* width: max-content; */
     gap:20px;
     /* padding: 8px; */
     padding-top: 2px;
